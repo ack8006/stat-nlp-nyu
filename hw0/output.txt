@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Alex
+   last: Takata
+email: act444@nyu.edu
+leaderboard: AlexTakata
