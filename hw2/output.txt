@@ -15,13 +15,13 @@ Example: Albert Glyburide guess=person gold= confidence=0.9841797689432265
 Example: Alesse guess=place gold= confidence=0.666563542376981
 Example: Alkets 18 guess=drug gold= confidence=0.932135957155933
 Example: Allay guess=place gold= confidence=0.775205237827078
-Example: Allegra guess=drug gold= confidence=0.32608978135009953
+Example: Allegra guess=movie gold= confidence=0.32608978135009953
 Example: Allerest Maximum Strength 15 guess=drug gold= confidence=0.9997565520952009
 Example: Alramucil Regular guess=drug gold= confidence=0.9943724279106845
 Example: Alti-Triazolam 18 guess=drug gold= confidence=0.9999963380816552
 Example: Aludrox guess=drug gold= confidence=0.9874628862027283
 Example: Amcort guess=drug gold= confidence=0.861810642161103
-Example: Amgenal Cough guess=drug gold= confidence=0.6167949639403701
+Example: Amgenal Cough guess=movie gold= confidence=0.6167949639403701
 Example: Amilon guess=drug gold= confidence=0.7773909901815348
 Example: AMMONIATED MERCURY guess=drug gold= confidence=0.9452041866433926
 Example: Anaprox 13 guess=drug gold= confidence=0.9999127405883503
@@ -83,7 +83,7 @@ Example: Blistex Medicated Lip Conditioner with Sunscreen 24 guess=drug gold= co
 Example: Blocadren 14 guess=drug gold= confidence=0.9963365707694244
 Example: Bontril Slow-Release guess=drug gold= confidence=0.9974573316647514
 Example: Botox guess=drug gold= confidence=0.6937502657576828
-Example: Brethine guess=drug gold= confidence=0.35816662686401923
+Example: Brethine guess=place gold= confidence=0.35816662686401923
 Example: Brevoxyl-4 Cleansing Lotion guess=drug gold= confidence=0.9992808808937216
 Example: Brevoxyl-4 Gel guess=drug gold= confidence=0.9984504022592025
 Example: Bromadrine PD guess=drug gold= confidence=0.9442168483278987
@@ -233,7 +233,7 @@ Example: Ex-Lax Maximum Relief Formula 33 guess=drug gold= confidence=0.99999977
 Example: Excedrin Migraine guess=drug gold= confidence=0.9626421429938865
 Example: Exgest LA 141 guess=drug gold= confidence=0.9963630424052499
 Example: EZE-DS guess=drug gold= confidence=0.9943931807819952
-Example: Famvir guess=drug gold= confidence=0.5214824644466591
+Example: Famvir guess=movie gold= confidence=0.5214824644466591
 Example: Fansidar guess=movie gold= confidence=0.4912211552661635
 Example: Felbatol guess=drug gold= confidence=0.9399972930411764
 Example: Feldene 16 guess=drug gold= confidence=0.9591512199652674
@@ -1043,7 +1043,7 @@ Example: Michael J. McCulley guess=person gold= confidence=0.9997533886398509
 Example: Michael P. Anderson guess=person gold= confidence=0.9996196753067386
 Example: Michel Rolle guess=person gold= confidence=0.9858102471589252
 Example: Mickey Mantle guess=movie gold= confidence=0.5533506743768238
-Example: Miguel Angel Asturias guess=person gold= confidence=0.8642013674258864
+Example: Miguel Angel Asturias guess=movie gold= confidence=0.8642013674258864
 Example: Millard Fillmore guess=person gold= confidence=0.8568761050196075
 Example: Miller Huggins guess=person gold= confidence=0.6126382705593383
 Example: Mohamed Anwar El Sadat guess=movie gold= confidence=0.9728870912042151
@@ -1529,8 +1529,8 @@ Example: Reynoldston guess=place gold= confidence=0.94264949921566
 Example: Rhode Island guess=place gold= confidence=0.7888796669022843
 Example: Rhyl guess=drug gold= confidence=0.9410231916195856
 Example: Riesa guess=movie gold= confidence=0.7180536358419839
-Example: Rio Blanco guess=place gold= confidence=0.7205681567812425
-Example: Rio Piedras guess=place gold= confidence=0.7935190955235764
+Example: Rio Blanco guess=person gold= confidence=0.7205681567812425
+Example: Rio Piedras guess=person gold= confidence=0.7935190955235764
 Example: Riverside Park guess=place gold= confidence=0.7572486582645942
 Example: Rochdale guess=place gold= confidence=0.9553974326091649
 Example: Rooty Hill guess=place gold= confidence=0.7727370579884767
@@ -2794,7 +2794,7 @@ Example: Telebras HOLDRs guess=company gold= confidence=0.5851268752727821
 Example: Telef�nica del Per� SA guess=company gold= confidence=0.9644004081823819
 Example: Telemig Celular Participa��es S.A. guess=company gold= confidence=0.9999869141349053
 Example: Templeton Emerging Markets Appreciation Fund, Inc. guess=company gold= confidence=0.9999720599060968
-Example: Tennessee Valley Auth guess=company gold= confidence=0.5769359435866186
+Example: Tennessee Valley Auth guess=place gold= confidence=0.5769359435866186
 Example: Terra Industries Inc. guess=company gold= confidence=0.99999940677842
 Example: Terra Nitrogen Co. LP guess=company gold= confidence=0.9984831161678002
 Example: Tesoro Petroleum Corporation. guess=company gold= confidence=0.9999999852082571
